@@ -1,0 +1,82 @@
+body{
+	background-image: url("12.png");
+	background-repeat: no-repeat;
+	background-size:100%;
+	background-attachment: fixed;
+	position:relative;
+}
+#rightTop{
+	margin-left: 100px;
+	margin-top: 50px;
+	margin-bottom:15px;
+	width: 500px;
+	height: 70px;
+	border-bottom: 0.01px solid #cccccc;
+}
+#rightMiddle{
+	width:300px;
+	height:200px;
+	margin-left: 150px;
+	color: white;
+}
+#left{
+	width: 350px;
+	height: 450px;
+	background:white;
+	position:absolute;
+	top:50px;
+	right:100px;
+}
+#loginBottom{
+	width:350px;
+	height:100px;
+	border-top: 0.1px solid #cccccc;
+	margin-top: 15px;
+}
+#footer{
+	border-top: 0.5px solid #cccccc;
+	margin-top: 300px;
+	margin-left: 30px;
+}
+#loginBottom div{
+	height:auto;
+	float:left;
+	margin-left:40px;
+	margin-top:20px;
+}
+#loginBottom div p{
+	/*padding:0;*/
+	margin:0;
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+	line-height: 35px;
+
+}
+.k{
+	width:180px;
+	height:25px;
+	margin-top: 10px;
+}
+.hezi
+{
+	width: 100px;
+	height: 20px;
+	background-color: whitesmoke;
+	position: absolute;
+	margin-top: 5px;
+	margin-left: 120px;
+}
+.tu1{
+	position:absolute;
+	width: 65px;
+	margin-top:-20px;
+	margin-left:-70px;
+}
+.tu2{
+	width:60px;
+}
+
